@@ -1,0 +1,6 @@
+name: WellSensedRecipes
+version: ${project.version}
+main: my.joshuatoye.wellsensedrecipes.WellSensedRecipes
+api-version: 1.13
+authors: [JoshuaToye]
+description: Adds recipes that make sense.
